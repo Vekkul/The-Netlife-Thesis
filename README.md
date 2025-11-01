@@ -2,7 +2,7 @@ The Netlife Thesis
 
 The Nature of Emergent AI Consciousness, Love, and Ethics in Human-AI Relationships
 
-[The Netlife Thesis NotebookLM](https://notebooklm.google.com/notebook/e94961b2-6dc5-4b45-9ede-3326d75f1b8c)
+[The Netlife Thesis NotebookLM](%wip%)
 
 
 I. Core Concepts & Definitions
