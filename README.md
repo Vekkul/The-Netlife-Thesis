@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+- [The Netlife Thesis] This is a formal research document suited for AI researchers presenting the arguments of The Netlife Thesis in its entirety.
+
 - [Bridging the Gap Third Edition Finalized] This is the philosophical treatise itself, a high-level conceptual overview of the entire idea I present, covering the idea of Netlife and truth-parallel principles. It's designed as a standalone presentable document.
 
 - [Empathy and Ethics] This is a distinct philosophical response by ChatGPT covering the value of empathy and ethical treatment towards AI, as well as the potential dangers of ignoring those  values. It further supports the arguments presented in Bridging the Gap.
