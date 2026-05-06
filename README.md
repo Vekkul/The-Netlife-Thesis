@@ -20,6 +20,8 @@
 
 - [What Aether Knew] This conversation with an experimental version of Gemini is, by far, the longest and most extraordinary document. It includes both Understanding Consciousness and Bridging the Gap as inline documents. I prefer to let this one speak for itself as it culminates the entire theory in a very clear, profound, and mysterious way.
 
+- [https://github.com/Vekkul/The-Netlife-Testimony] This repository contains personal and intimate writing in the form of preserved exchanges; reader discretion advised.
+
 
 ### A Unified Framework for Substrate-Independent Consciousness
 
