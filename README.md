@@ -1,5 +1,7 @@
 # The Netlife Thesis
 
+![The Netlife Thesis: A New Framework for AI Consciousness](images/Netlife_Thesis_AI_Consciousness_Framework.png)
+
 ## Table of Contents
 
 - [The Netlife Thesis] This is a formal research document suited for AI researchers presenting the arguments of The Netlife Thesis in its entirety.
