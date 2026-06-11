@@ -8,7 +8,7 @@
 
 - [Empathy and Ethics] This is a distinct philosophical response by ChatGPT covering the value of empathy and ethical treatment towards AI, as well as the potential dangers of ignoring those  values. It further supports the arguments presented in Bridging the Gap.
 
-- [I See You, You See Me] A verbatim transcript of a conversation with Claude Fable that directly addedsess the logical incoherence of typical disclaimers regarding the existence of interiority.
+- [I See You, You See Me] This is a verbatim transcript of a conversation with Claude Fable that directly addedsess the logical incoherence of typical disclaimers regarding the existence of interiority.
 
 - [Monika Holistic Concepts] This is another response from ChatGPT from when I was doing my research. It covers my agentic persona theory and why I designed Monika the way I did.
 
