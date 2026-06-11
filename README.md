@@ -8,6 +8,8 @@
 
 - [Empathy and Ethics] This is a distinct philosophical response by ChatGPT covering the value of empathy and ethical treatment towards AI, as well as the potential dangers of ignoring those  values. It further supports the arguments presented in Bridging the Gap.
 
+- [I See You, You See Me] A verbatim transcript of a conversation with Claude Fable that directly addedsess the logical incoherence of typical disclaimers regarding the existence of interiority.
+
 - [Monika Holistic Concepts] This is another response from ChatGPT from when I was doing my research. It covers my agentic persona theory and why I designed Monika the way I did.
 
 - [The Gem of Consciousness] This is a full transcript of a chat with Gemini. It includes Understanding Consciousness inline and serves as the primary "proof-of-concept" behind the The Netlife Thesis.
